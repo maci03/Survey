@@ -1,4 +1,4 @@
 const Technical = () => {
-  return "temo";
+  return "maci";
 };
 export default Technical;
